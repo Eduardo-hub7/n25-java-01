@@ -1,0 +1,35 @@
+Class documentation
+<---- javadoc command: ---->
+C:\GreenFoot\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-protected
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+21
+-classpath
+C:\GreenFoot\lib\greenfoot.jar;C:\GreenFoot\lib\javafx-base-21.0.3-win.jar;C:\GreenFoot\lib\javafx-controls-21.0.3-win.jar;C:\GreenFoot\lib\javafx-fxml-21.0.3-win.jar;C:\GreenFoot\lib\javafx-graphics-21.0.3-win.jar;C:\GreenFoot\lib\javafx-media-21.0.3-win.jar;C:\GreenFoot\lib\javafx-swing-21.0.3-win.jar;C:\GreenFoot\lib\javafx-web-21.0.3-win.jar;C:\GreenFoot\lib\junit-4.12.jar;C:\GreenFoot\lib\junit-jupiter-5.5.2.jar;C:\GreenFoot\lib\junit-jupiter-api-5.5.2.jar;C:\GreenFoot\lib\junit-jupiter-engine-5.5.2.jar;C:\GreenFoot\lib\junit-jupiter-params-5.5.2.jar;C:\GreenFoot\lib\junit-platform-commons-1.5.2.jar;C:\GreenFoot\lib\junit-platform-engine-1.5.2.jar;C:\GreenFoot\lib\junit-platform-launcher-1.5.2.jar;C:\GreenFoot\lib\junit-platform-suite-api-1.5.2.jar;C:\GreenFoot\lib\junit-vintage-engine-5.5.2.jar;C:\GreenFoot\lib\hamcrest-core-1.3.jar;C:\GreenFoot\lib\opentest4j-1.2.0.jar;C:\GreenFoot\lib\bluej.jar;C:\GreenFoot\lib\classgraph-4.8.90.jar;C:\GreenFoot\lib\diffutils-1.2.1.jar;C:\GreenFoot\lib\commons-logging-1.2.jar;C:\GreenFoot\lib\jl1.0.1.jar;C:\GreenFoot\lib\opencsv-2.3.jar;C:\GreenFoot\lib\opencsv-2.4.jar;C:\GreenFoot\lib\xom-1.3.9.jar;C:\GreenFoot\lib\lang-stride.jar;C:\GreenFoot\lib\nsmenufx-3.1.0.jar;C:\GreenFoot\lib\wellbehavedfx-0.3.3.jar;C:\GreenFoot\lib\guava-33.3.1-jre.jar;C:\GreenFoot\lib\failureaccess-1.0.2.jar;C:\GreenFoot\lib\simple-png-0.2.0.jar;C:\GreenFoot\lib\simple-png-javafx-0.2.0.jar;C:\GreenFoot\lib\httpclient-4.5.13.jar;C:\GreenFoot\lib\httpcore-4.4.13.jar;C:\GreenFoot\lib\httpmime-4.1.1.jar;C:\GreenFoot\lib\javafx\javafx.base.jar;C:\GreenFoot\lib\javafx\javafx.controls.jar;C:\GreenFoot\lib\javafx\javafx.fxml.jar;C:\GreenFoot\lib\javafx\javafx.graphics.jar;C:\GreenFoot\lib\javafx\javafx.media.jar;C:\GreenFoot\lib\javafx\javafx.properties.jar;C:\GreenFoot\lib\javafx\javafx.swing.jar;C:\GreenFoot\lib\javafx\javafx.web.jar;C:\Users\Aluno\Documents\n25-java1-01\GreenFoot\Aula01\MundoAbelha-copy
+-d
+C:\Users\Aluno\Documents\n25-java1-01\GreenFoot\Aula01\MundoAbelha-copy\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\Aluno\Documents\n25-java1-01\GreenFoot\Aula01\MundoAbelha-copy\Mosca.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Aluno\Documents\n25-java1-01\GreenFoot\Aula01\MundoAbelha-copy\Mosca.java...
+Constructing Javadoc information...
+warning: unknown enum constant Tag.Any
+  reason: class file for threadchecker.Tag not found
+warning: unknown enum constant Tag.Any
+Standard Doclet version 21.0.4+7-LTS
+Building tree for all the packages and classes...
+Generating C:\Users\Aluno\Documents\n25-java1-01\GreenFoot\Aula01\MundoAbelha-copy\doc\Mosca.html...
+Generating C:\Users\Aluno\Documents\n25-java1-01\GreenFoot\Aula01\MundoAbelha-copy\doc\package-summary.html...
+Generating C:\Users\Aluno\Documents\n25-java1-01\GreenFoot\Aula01\MundoAbelha-copy\doc\index.html...
+2 warnings
