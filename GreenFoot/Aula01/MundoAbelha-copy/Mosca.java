@@ -19,5 +19,8 @@ public class Mosca extends Actor
        if(Greenfoot.getRandomNumber(100)<20){
           turn(45-Greenfoot.getRandomNumber(90));
        }
+       if(isAtEdge()){//está em um canto
+          turn(180);
+       }
     }
 }
