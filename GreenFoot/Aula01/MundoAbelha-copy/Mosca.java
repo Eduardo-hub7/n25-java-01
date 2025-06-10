@@ -8,6 +8,20 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class Mosca extends Actor
 {
+    //Fields
+    private int velocidade;
+    private int rotacao;
+    //Constructor padrão
+    public Mosca(){
+        velocidade = 1;
+        rotacao = 0;
+    }
+    //Constructor com parametros
+    public Mosca(int vel, int rot){
+        velocidade = vel;
+        rotacao = rot;
+        setRotation(rot);
+    }
     /**
      * Act - Método responsável pelas ações da mosca quando 
      * os botões Act ou Run são pressionados.
@@ -15,7 +29,7 @@ public class Mosca extends Actor
     public void act()
     {
         // Add your action code here.
-        move(1);
+        move(velocidade);
        if(Greenfoot.getRandomNumber(100)<20){
           turn(45-Greenfoot.getRandomNumber(90));
        }
