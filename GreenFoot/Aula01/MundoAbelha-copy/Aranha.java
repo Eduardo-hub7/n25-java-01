@@ -19,4 +19,11 @@ public class Aranha extends Actor
         turn(10-Greenfoot.getRandomNumber(20));
 
         }
+        
+    public void interseptarAbelha(){
+        BeeWorld beeW = (BeeWorld) getWorld();
+        //Virando em direção a abelha
+        turnTowards( beeW.getAbelha().getX(),
+                     beeW.getAbelha().getY() );
+    }
 }
